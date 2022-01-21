@@ -5,7 +5,7 @@ the h-index of an author measures his/her productivity and the citation impact o
 
 Based on a co-authorship network which has been extracted from the Microsoft Academic Graph (a co-authorship network where nodes correspond to authors that have published papers in computer science venues (conference or journal) and two nodes are connected by an edge if they have co-authored at least one paper) and a list of scientific abstracts of the same authors, I tried to build some predictors of authors h-index.
 
-In the report, all the methods used are precisely detailed.
+In the file 'report.pdf', all the methods used are precisely detailed.
 
 ## How to use this repo 
 
